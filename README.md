@@ -156,7 +156,8 @@ Our dataset now includes observations from 2007, with 7,292,467 records, indicat
 
 **Distribution of Key Flight Metrics**
 
-![Distribution of Key Flight Metrics](diagrams/Distribution_of_Key_Flight_Metrics.png)
+<img src="diagrams/Distribution_of_Key_Flight_Metrics.png" alt="Distribution of Key Flight Metrics" width="800"/>
+
 
 *Figure6.3. Histograms of Departure Time, Distance, and Arrival Delay: Visualizing the frequency distributions within the flight data.*
 
@@ -170,7 +171,7 @@ The distribution patterns for 'DepTime,' 'Distance,' and 'ArrDelay' offer insigh
 
 **Correlation Matrix**
 
-![Correlation Matrix](./diagrams/Correlation_Matrix.png)
+<img src="./diagrams/Correlation_Matrix.png" alt="Correlation Matrix" width="600"/>
 
 *Figure6.4. Heatmap of Correlation Coefficients: Showcasing the relationship between departure time, distance, and arrival delay*
 
